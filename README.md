@@ -1,3 +1,6 @@
+# BlahBlahClub
+Сайт будет посвящён английскому разговорному клубу  который будет проводиться онлайн.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
